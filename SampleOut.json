@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Tributes paid to Queen in UK football stadiums",
+      "description": "Liverpool fans and supporters of EFL clubs pay tribute to Queen Elizabeth II as professional football fixtures resume across the UK.",
+      "url": "http://www.bbc.co.uk/sport/football/62893621",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6B1C/production/_126702472_gettyimages-1423414487.jpg",
+      "publishedAt": "2022-09-14T04:37:22.7001422Z",
+      "content": "The 'period of silence' at Anfield lasted for about 30 seconds and was observed by all but a handful of those in the stadium\r\nTributes to the Queen were respectfully observed across 30 EFL games and … [+4017 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "FOX Sports",
+      "title": "Mahomes, Chiefs top Cowherd's Herd Hierarchy ahead of Week 2",
+      "description": "Find out which squads landed on Colin Cowherd's \"Herd Hierarchy\" after a thrilling Week 1 of NFL football.",
+      "url": "http://www.foxsports.com/stories/nfl/patrick-mahomes-kansas-city-chiefs-colin-cowherd-the-herd-hierarchy-nfl",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/09.13.22_Herd-Hierarchy_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-09-13T20:59:37Z",
+      "content": "Let the people rejoice the NFL is back!\r\nWeek 1 had everything fans could ask for to satisfy their football fix: staunch defensive displays, offensive explosions, even a few overtime thrillers. \r\nBut… [+7550 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "FOX Sports",
+      "title": "College football odds Week 3: Top 25 early lines",
+      "description": "Here's everything you need to know about the odds and betting lines at FOX Bet for Top 25 college football Week 3 games",
+      "url": "http://www.foxsports.com/stories/college-football/college-football-odds-week-3-top-25-lines",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/09/1408/814/09.11.22_College-Football-Odds_Week-3_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-09-13T18:03:14Z",
+      "content": "A battle between two of the best teams in the west and a storied rivalry with one team heading in a new direction highlight Week 3 of the college football season.\r\nNo. 12 BYU plays at No. 25 Oregon a… [+8087 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "Gus MacPherson relishing role as St Johnstone’s head of football operations",
+      "description": "Gus MacPherson is looking forward to the “hugely exciting” role as St Johnstone’s head of football operations.",
+      "url": "https://www.fourfourtwo.com/news/gus-macpherson-relishing-role-as-st-johnstones-head-of-football-operations-1663078212000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tfVSSEKdzkyYysALvBzArV-1200-80.jpg",
+      "publishedAt": "2022-09-13T14:10:12Z",
+      "content": "Gus MacPherson is looking forward to the “hugely exciting” role as St Johnstone’s head of football operations.\r\nThe former St Mirren, Queen of the South, Queen’s Park and Morton boss will succeed Sco… [+1156 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "Adam Kramer",
+      "title": "B/R CFB Community: Biggest Week 2 Surprises",
+      "description": "If you're a college football fan, these are the weekends you live for. Week 2 was chaotic and magnificent and featured wall-to-wall action. There was...",
+      "url": "https://bleacherreport.com/articles/10048776-br-cfb-community-biggest-week-2-surprises",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1663013831/efxxfee3fjjadumixuy2.jpg",
+      "publishedAt": "2022-09-13T12:06:18Z",
+      "content": "Michael Reaves/Getty Images\r\nIf you're a college football fan, these are the weekends you live for.\r\nWeek 2 was chaotic and magnificent and featured wall-to-wall action. There was Alabama-Texas, the … [+6306 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "Morgan Moriarty",
+      "title": "The Wildest Stats from the First 2 Weeks of College Football",
+      "description": "We've had just a couple weeks of the 2022 college football season, and they've given us some incredible moments already, including App State beating then-No. 6...",
+      "url": "https://bleacherreport.com/articles/10048783-the-wildest-stats-from-the-first-2-weeks-of-college-football",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_8,y_16,w_1767,h_1174,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1663019273/br1fvtd88wyxwjr1eowu.jpg",
+      "publishedAt": "2022-09-13T11:00:00Z",
+      "content": "Jalon Daniels (Icon Sportswire)\r\nFor the first time since 2016, Florida State has started 2-0. That was also the last time FSU finished with more than seven wins, and it was Jimbo Fisher's second-to-… [+1559 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
